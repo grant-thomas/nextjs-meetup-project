@@ -9,7 +9,7 @@ function HomePage(props) {
 				<title>NextJS Meetups</title>
 				<meta
 					name='description'
-					content='Browse a huge list of highly active React meetups!'
+					content='Browse a huge list of highly active NextJS meetups!'
 				/>
 			</Head>
 			<MeetupList meetups={props.meetups} />
